@@ -1,0 +1,12 @@
+﻿FINAL YEAR
+📶 Communication & Wireless Projects
+41. GSM-Based Notice Board
+Displays SMS messages sent to the system on an LCD. Ideal for public announcements in schools and institutions.
+46. Wireless Electronic Notice Board using Wi-Fi
+Updates content on an LCD screen via Wi-Fi module. Efficient for displaying dynamic info in offices and colleges.
+
+IOT PROJECTS FOR FINAL YEAR
+18. Public Toilet Hygiene Monitoring
+Sensors detect cleanliness levels (smell, usage count, and humidity). An ESP8266 sends real-time status to authorities or displays it on an LED screen. It helps maintain public toilet hygiene and notifies staff when cleaning is needed.
+44. Public Toilet Odor & Air Quality Sensors
+Ammonia and CO₂ sensors detect air quality and foul odor in toilets. Data is sent to sanitation workers or displayed via indicators. Helps maintain hygiene and encourages better public toilet usage.
