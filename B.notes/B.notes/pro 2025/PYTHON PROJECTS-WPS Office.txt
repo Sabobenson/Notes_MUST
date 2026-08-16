@@ -1,9 +1,0 @@
-﻿PYTHON PROJECTS IDEAS
-MUSIC RECOMMENDATIONS SYSTEM BY FACIAL EMOTION DETECTION | PYTHON IMAGE PROCESSING
-People express their emotions primarily through their facial expressions. Our system aims to capture a person’s emotion through facial expressions. The user’s current emotion is used to generate an automatic music playlist. When compared to the algorithm in the existing literature, it performs better in terms of computational time.
-
-In this system, the user can chat with the chatbot. The emotion will be detected and the music player will start playing particular music. The person should be in the area containing light so that the detection is clear. The main objective of our music recommendation system based on users’ facial emotions is to provide users with suggestions that match their preferences.
-
-AMBULANCE BOOKING SYSTEM USING PYTHON 
-For booking an ambulance users have to select ambulance size, pick-up point & hospital, and date & time. In an emergency will automatically book the nearest ambulance & hospital. Users will get a list of All the bookings of Ambulances. The front-end involves Html, CSS, and JavaScript and the back-end involves Python. The framework used is Django and the database is MySQL.
-
